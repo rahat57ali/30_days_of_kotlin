@@ -66,7 +66,7 @@ fun main(){
     println(fruits2)
 
     // Copy
-    val fruits3 = mutableListOf("banana", "orange", "mango", "lemon")
+    val fruits3 = mutableListOf("banana", "orange", "mango", "lemons")
     val fruitsCopy = fruits3.toMutableList()
     println(fruitsCopy)
 
